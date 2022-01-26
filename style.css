@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+#cards{
+    background: #296d43;
+}
+#cards div{
+    padding: 30px 15px;
+}
+#cardschild{
+    box-sizing: border-box;
+    text-align: left;
+    background:white;
+}
